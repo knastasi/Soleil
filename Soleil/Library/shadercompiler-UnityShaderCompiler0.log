@@ -1,0 +1,10 @@
+Base path: '/Applications/Unity/Hub/Editor/2019.2.18f1/Unity.app/Contents', plugins path '/Applications/Unity/Hub/Editor/2019.2.18f1/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: preprocess
+  insize=683 outsize=683 ok=1
+Cmd: preprocess
+  insize=838 outsize=838 ok=1
+Cmd: preprocess
+  insize=2619 outsize=463 ok=1
+Cmd: preprocess
+  insize=2191 outsize=817 ok=1
